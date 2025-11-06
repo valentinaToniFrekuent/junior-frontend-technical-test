@@ -1,20 +1,34 @@
 # 🎯 Frontend Take-Home Test — Session Finder + Schedule
 
 ## ⏱ Timebox
-Please spend **no more than 2 hours** on this task.  
+Please spend **no more than 3 hours** on this task.  
 It’s okay to leave comments or TODOs for improvements if you run out of time.
 
 ---
 
-## 📌 Goal
+## 🎯 Goal
+
 Build a small React app where a user can:
 
-1. **Search sessions** (from a provided mock API).  
-2. **Add/remove sessions** to a personal **Schedule** (shared state).  
-3. **Register** with a simple **form + validation**, and show a confirmation from the API.  
+1. **Search sessions** (from the provided mock API)
+2. **Add / remove sessions** to a personal **Schedule** (shared state)
+3. **Register** with a simple **form + validation**, and display the confirmation returned by the API
+4. **Create something original** — add a detail that shows your personal touch.
+   This could be:
+   - A visual detail or animation
+   - A reusable component pattern
+   - An interaction or small “wow” feature
+   - Anything you think represents your style and strengths
 
-You're completely free to use the style you prefer.
-You can see an example on how it could looks on this link: https://68dcffe5683caab0190f57ff--guileless-truffle-7eae5c.netlify.app/
+**Styling is completely up to you.** 
+
+> **Recommendation:** Don’t try to make everything perfect or complete every idea.
+> Instead, **prioritize what you think is most important** (architecture, DX, UI quality, naming, etc.).
+> We value **decision-making and clarity** over quantity.
+
+**Reference (visual example only):**  
+https://68dcffe5683caab0190f57ff--guileless-truffle-7eae5c.netlify.app/
+
 
 ---
 
